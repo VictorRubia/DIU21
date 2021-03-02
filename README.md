@@ -1,7 +1,7 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema:  Experiencias y planificación de ocio) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
+Grupo: DIU3_AfterWork.  Curso: 2020/21 
 Updated: 8/2/2021
 
 Proyecto: 
