@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Claudia Salado(https://github.com/itzZOA)     :octocat:     
- * :bust_in_silhouette:  Victor José Rubia(https://github.com/VictorRubia)     :octocat:
+ * :bust_in_silhouette:   (https://github.com/itzZOA, "Claudia Salado")     :octocat:     
+ * :bust_in_silhouette:  (https://github.com/VictorRubia, "Victor José Rubia")     :octocat:
 
 ----- 
 
