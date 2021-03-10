@@ -33,13 +33,13 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Diana Rodriguez",
+				Name: "Diana Fournier",
 				Photo: "woman.jpg",
-				Quote: "Never Surrender!",
-				Age: 24,
-				Occupation: "Profesora de Infantil",
+				Quote: "Ne Jamais Se Rendre!",
+				Age: 22,
+				Occupation: "Estudiante universitaria de ultimo curso",
 				Family: "Su gato Yuumi",
-				Location: "Gran Canaria (Madroñal)",
+				Location: "Francia (Lyon)",
 				Character: "Le gusta pasar el tiempo consigo misma y desarrollarse como persona, es demasiado sincera y le cuesta conocer gente nueva ",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1.5 },
@@ -49,8 +49,8 @@ angular.module("angular", [])
 			 }
 				], 
 				Goals: ["Viajar y visitar todos las maravillas del mundo", "Tener una vida estable"],
-				Frustrations: ["le gustaria saltarse las normas alguna vez, porque siempre hace lo que es 'lo más correcto' en cada ocasión", "Le gustaría aprender a tocar un istrumento siempre ha querido desde pequeña"],
-				Bio: "Nacio en Gran Canaria, vivio toda su infancia alli junto a su madre ya su hermano menor. Estudio y fue a la universidad, no le fue dificil elegir lo que queria estudiar ya que los niños siempre le han gustado, su gran paciencia, sus dotes para animar y tratar con cariño hacen que sea idoneo para ella. Ahora esta como profesora de practicas en un colegio de infantil. Aqui tambien ha conocido a otros profesores y se ha creado un bonito circulo de amigos con los que sale y disfruta su tiempo libre, por eso quiere quedarse a trabajar indefinidamente en este centro ya que su vida ya gira en torno a el.",
+				Frustrations: ["le gustaria saltarse las normas alguna vez, porque siempre hace lo que es 'lo más correcto' en cada ocasión", "Le gustaría aprender a tocar un instrumento siempre ha querido desde pequeña"],
+				Bio: "Nacio en Lyon, Francia, vivio toda su infancia alli junto a su madre y su hermano menor. Actualmente se encuentra cursando el ultimo curso del Grado en Turismo, ya que le gusta mucho la historia. Le encanta socializar y descubrir nuevos lugares. Además siente un afán por transmitir a los demás una visión de lugares históricos diferente a lo normal.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 4 },
@@ -58,7 +58,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1.5 }
 					
 				], 
-                Contextos: "Necesita darse un regalo a si misma y un viaje sola es lo mejor, tanto para desconectar de la vida cotidiana como para buscar algo nuevo que se la cambie",  
+                Contextos: "Tras finalizar la pandemia ha decidido hacer un viaje con sus amigas para final de curso",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 4 },
@@ -91,7 +91,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Aprender a hablar inglés.", "Ver a mis amigos con mayor frecuencia.", "Conocer sitios nuevos.", "Viajar a un país desconocido."],
 				Frustrations: ["El trabajo le ocupa mucho tiempo.", "No ser el mejor en todo lo que hace.", "No poder salvar siempre todas las vidas.", "No se reconozca suficientemente su trabajo."],
-				Bio: "Esteban nació en Sevilla en un barrio humilde. Es el hijo mayor y sus padres se dedican a la hostelería. Su deseo por ayudar a los demás y por tener buena complexión física le llevó a opositar para bombero en su ciudad. Mientras intentaba aprobarlas, trabajaba como interino en el puesto de bomberos de su distrito. Cuando aprobó oposiciones tuvo que aceptar la plaza en Valencia, por lo que se mudó a la ciudad con 27 años. Esteban tiene un carácter sociable y muy amable, siempre le ha encantado conocer gente nueva. Sin embargo, el ser muy competitivo le ha supuesto una barrera a la hora de conservar a sus amigos. Una de sus aficiones preferidas es viajar con su mujer, que se casaron cuando tenia 30 años. Esteban tiene un grupo de amigos del trabajo con los que suele hacer actividades deportivas diversas, entre las cuales suelen ir a torneos y competiciones que se realizan. Esta planeando con su mujer tener hijos próximamente, por lo que estan bastante ilusionados.",
+				Bio: "Esteban nació en Valencia en un barrio humilde. Es el hijo mayor y sus padres se dedican a la hostelería. Su deseo por ayudar a los demás y por tener buena complexión física le llevó a opositar para bombero en su ciudad. Mientras intentaba aprobarlas, trabajaba como interino en el puesto de bomberos de su distrito. Cuando aprobó oposiciones tuvo que aceptar la plaza en Granada, por lo que se mudó a la ciudad con 27 años. Esteban tiene un carácter sociable y muy amable, siempre le ha encantado conocer gente nueva. Sin embargo, el ser muy competitivo le ha supuesto una barrera a la hora de conservar a sus amigos. Una de sus aficiones preferidas es viajar con su mujer, que se casaron cuando tenia 30 años. Esteban tiene un grupo de amigos del trabajo con los que suele hacer actividades deportivas diversas, entre las cuales suelen ir a torneos y competiciones que se realizan. Esta planeando con su mujer tener hijos próximamente, por lo que estan bastante ilusionados.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3.5 },
 					{ Name: "Movil", Value: 4 },
@@ -99,7 +99,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos:   "Esteban lleva viviendo en Valencia unos pocos años y nunca ha tenido tiempo para explorar la ciudad. Como su mujer tampoco conocía Valencia antes de mudarse con su actual marido, ambos han decidido hacer más actividades juntos. Por ello, quieren visitar todos los rincones de su ciudad y, a la vez, están abiertos a conocer a gente que tengan su misma afición por el turismo y el viajar para poder, en un futuro, contar con ellos para realizar viajes." ,
+                Contextos:   "Esteban lleva viviendo en Granada unos pocos años y nunca ha tenido tiempo para explorar la ciudad. Como su mujer tampoco conocía Granada antes de mudarse con su actual marido, ambos han decidido hacer más actividades juntos. Por ello, quieren visitar todos los rincones de su ciudad y, a la vez, están abiertos a conocer a gente que tengan su misma afición por el turismo y el viajar para poder, en un futuro, contar con ellos para realizar viajes." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 1.5 },
 					{ Name: "Online & Social Media", Value: 2.5 },
